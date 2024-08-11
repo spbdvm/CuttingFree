@@ -8,6 +8,8 @@ If you need to improve the program, you can knock to me in telegram dvimT Or wri
 The program has an interface in Russian and English, for the possibility of its use in different countries.
 The program does not require installation. To run it, download and unpack the archive into a folder.
 
+The main idea of program   -read xls file with raw data ,set profile lenght  ,  make some corrections and make Cutt.  At next step er can see and export Cutting result.
+
 For calculation this project use https://github.com/MuamerHr/CuttingAndPacking solution.
 I had to recomile it to  Net Framework instead Net Standart and attach to this.
 
