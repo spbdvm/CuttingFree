@@ -1,0 +1,18 @@
+D:\_R\CuttingStockFramework\bin\Release\CuttingStockFramework.dll
+D:\_R\CuttingStockFramework\bin\Release\CuttingStockFramework.pdb
+D:\_R\CuttingStockFramework\obj\Release\CuttingStock.csproj.AssemblyReference.cache
+D:\_R\CuttingStockFramework\obj\Release\CuttingStock.csproj.CoreCompileInputs.cache
+D:\_R\CuttingStockFramework\obj\Release\CuttingStockFramework.dll
+D:\_R\CuttingStockFramework\obj\Release\CuttingStockFramework.pdb
+C:\_R\Cutt GH\CuttingStockFramework\bin\Release\CuttingStockFramework.dll
+C:\_R\Cutt GH\CuttingStockFramework\bin\Release\CuttingStockFramework.pdb
+C:\_R\Cutt GH\CuttingStockFramework\bin\Release\ExcelDataReader.DataSet.dll
+C:\_R\Cutt GH\CuttingStockFramework\bin\Release\ExcelDataReader.dll
+C:\_R\Cutt GH\CuttingStockFramework\bin\Release\ExcelDataReader.pdb
+C:\_R\Cutt GH\CuttingStockFramework\bin\Release\ExcelDataReader.xml
+C:\_R\Cutt GH\CuttingStockFramework\bin\Release\ExcelDataReader.DataSet.pdb
+C:\_R\Cutt GH\CuttingStockFramework\bin\Release\ExcelDataReader.DataSet.xml
+C:\_R\Cutt GH\CuttingStockFramework\obj\Release\CuttingStock.csproj.CoreCompileInputs.cache
+C:\_R\Cutt GH\CuttingStockFramework\obj\Release\CuttingStock.csproj.CopyComplete
+C:\_R\Cutt GH\CuttingStockFramework\obj\Release\CuttingStockFramework.dll
+C:\_R\Cutt GH\CuttingStockFramework\obj\Release\CuttingStockFramework.pdb

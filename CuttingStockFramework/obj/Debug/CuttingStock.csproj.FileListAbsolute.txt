@@ -1,0 +1,18 @@
+D:\_R\CuttingStockFramework\obj\Debug\CuttingStock.csproj.AssemblyReference.cache
+D:\_R\CuttingStockFramework\obj\Debug\CuttingStock.csproj.CoreCompileInputs.cache
+D:\_R\CuttingStockFramework\bin\Debug\CuttingStockFramework.dll
+D:\_R\CuttingStockFramework\bin\Debug\CuttingStockFramework.pdb
+D:\_R\CuttingStockFramework\obj\Debug\CuttingStockFramework.dll
+D:\_R\CuttingStockFramework\obj\Debug\CuttingStockFramework.pdb
+C:\_R\Cutt GH\CuttingStockFramework\bin\Debug\CuttingStockFramework.dll
+C:\_R\Cutt GH\CuttingStockFramework\bin\Debug\CuttingStockFramework.pdb
+C:\_R\Cutt GH\CuttingStockFramework\bin\Debug\ExcelDataReader.DataSet.dll
+C:\_R\Cutt GH\CuttingStockFramework\bin\Debug\ExcelDataReader.dll
+C:\_R\Cutt GH\CuttingStockFramework\bin\Debug\ExcelDataReader.pdb
+C:\_R\Cutt GH\CuttingStockFramework\bin\Debug\ExcelDataReader.xml
+C:\_R\Cutt GH\CuttingStockFramework\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\_R\Cutt GH\CuttingStockFramework\bin\Debug\ExcelDataReader.DataSet.xml
+C:\_R\Cutt GH\CuttingStockFramework\obj\Debug\CuttingStock.csproj.CoreCompileInputs.cache
+C:\_R\Cutt GH\CuttingStockFramework\obj\Debug\CuttingStock.csproj.CopyComplete
+C:\_R\Cutt GH\CuttingStockFramework\obj\Debug\CuttingStockFramework.dll
+C:\_R\Cutt GH\CuttingStockFramework\obj\Debug\CuttingStockFramework.pdb
